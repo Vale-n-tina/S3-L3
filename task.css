@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+}
+.completato{
+    text-decoration: line-through;
+}
+body{
+    background-image: radial-gradient(circle at 34.06% 109.5%, #00908b 0, #00909a 3.85%, #0090a9 7.69%, #008fb7 11.54%, #008ec4 15.38%, #008dd0 19.23%, #008bd9 23.08%, #0089e2 26.92%, #0086e8 30.77%, #0083eb 34.62%, #007fed 38.46%, #007aed 42.31%, #0074ea 46.15%, #486ee5 50%, #6c67de 53.85%, #875fd5 57.69%, #9c57cb 61.54%, #ad4ebf 65.38%, #bc46b2 69.23%, #c73da4 73.08%, #d03695 76.92%, #d63086 80.77%, #db2d76 84.62%, #dd2d67 88.46%, #dc3158 92.31%, #da3749 96.15%, #d63f3b 100%);
+    height: 700px;
+}
+#contenitore{
+    background-color: white;
+    width: 450px;
+    height: 200px;
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+    
+}
